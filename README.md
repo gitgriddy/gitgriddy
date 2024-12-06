@@ -1,5 +1,11 @@
 <h1>Hi, I'm Leeann!👩🏻👋🏻</h1>
 
+<h2>📓Education:</h2>
+- Intro to Computer Science Principles
+- Intro to Computer Science: Java I/II
+- Basic Data Structures & Algorithms
+- Discrete Structures
+
 <h2>👩🏻‍💻Computer Science Projects:</h2>
 
 - [Online Clothing Shop](https://github.com/gitgriddy/Online-Clothing-Shop/tree/main)
