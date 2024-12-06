@@ -1,6 +1,7 @@
 <h1>Hi, I'm Leeann!👩🏻👋🏻</h1>
 
 <h2>📓Education:</h2>
+
 - Intro to Computer Science Principles
 - Intro to Computer Science: Java I/II
 - Basic Data Structures & Algorithms
