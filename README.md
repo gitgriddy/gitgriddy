@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻Computer Science Projects:</h2>
 
-- [Online Clothing Shop](https://github.com/gitgriddy/TEST)
+- [Online Clothing Shop]([https://github.com/gitgriddy/TEST](https://github.com/gitgriddy/Online-Clothing-Shop/tree/main))
 - [Contacts Organizer](https://github.com/gitgriddy/TEST)
 - [EPA Fuel Economy](https://github.com/gitgriddy/TEST)
 
