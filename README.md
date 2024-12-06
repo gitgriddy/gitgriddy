@@ -2,7 +2,18 @@
 
 <h2>👩🏻‍💻Computer Science Projects:</h2>
 
--[Online Clothing Shop](https://github.com/gitgriddy/TEST)
+- [Online Clothing Shop](https://github.com/gitgriddy/TEST)
+- [Contacts Organizer](https://github.com/gitgriddy/TEST)
+- [EPA Fuel Economy](https://github.com/gitgriddy/TEST)
+
+<h2>🤳🏻Connect with Me:</h2>
+[<img align="left" alt="Leeann Huntzinger| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Leeannsphotoss| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]:https://www.instagram.com/leeannsphotoss/
+[linkedin]:https://www.LinkedIn.com/in/LeeannHuntzinger
+
 
 <!--
 **gitgriddy/gitgriddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
