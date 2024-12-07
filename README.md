@@ -1,5 +1,9 @@
 <h1>Hi, I'm Leeann!👩🏻👋🏻</h1>
 
+I'm a computer science student with a passion for problem-solving and technology. While I'm still exploring the many opportunities within the field, I enjoy learning about areas like software development, cybersecurity, data science, and computer architecture.
+
+I'm excited to gain hands-on experience, collaborate with others, and continue discovering which path excites me most as I build my career in tech. For now, my goal is to strengthen my skills, contribute to meaningful projects, and keep an open mind about where my journey might lead.
+
 <h2>📓Education:</h2>
 
 - Intro to Computer Science Principles
