@@ -10,6 +10,7 @@ I'm excited to gain hands-on experience, collaborate with others, and continue d
 - Intro to Computer Science: Java I/II
 - Basic Data Structures & Algorithms
 - Discrete Structures
+- C++ Programming
 
 <h2>👩🏻‍💻Computer Science Projects:</h2>
 
