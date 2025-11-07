@@ -1,8 +1,12 @@
 <h1>Hi, I'm Leeann!👩🏻👋🏻</h1>
 
-I'm a computer science student with a passion for problem-solving and technology. While I'm still exploring the many opportunities within the field, I enjoy learning about areas like software development, cybersecurity, data science, and computer architecture.
+# Hi! I’m Leeann 👋
 
-I'm excited to gain hands-on experience, collaborate with others, and continue discovering which path excites me most as I build my career in tech. For now, my goal is to strengthen my skills, contribute to meaningful projects, and keep an open mind about where my journey might lead.
+I’m a Computer Information Systems student starting my journey into the IT world.  
+I’m currently studying for my **CompTIA A+ certification** and looking for **internships or any kind of hands-on experience** that can help me grow.  
+
+I’m brand new to the field, but I’m motivated, organized, and love learning how technology makes work and life easier.  
+This GitHub is my space to document my learning, share beginner projects, and show my growth as I build toward a future career in information systems and IT support.
 
 <h2>📓Education:</h2>
 
@@ -10,7 +14,7 @@ I'm excited to gain hands-on experience, collaborate with others, and continue d
 - Intro to Computer Science: Java I/II
 - Basic Data Structures & Algorithms
 - Discrete Structures
-- C++ Programming
+- Fund Computer Hardware & Software
 
 <h2>👩🏻‍💻Computer Science Projects:</h2>
 
