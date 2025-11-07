@@ -12,7 +12,7 @@ This GitHub is my space to document my learning, share beginner projects, and sh
 - Intro to Computer Science: Java I/II
 - Basic Data Structures & Algorithms
 - Discrete Structures
-- Fund Computer Hardware & Software
+- Fundamentals of Computer Hardware & Software
 
 <h2>👩🏻‍💻Projects:</h2>
 
