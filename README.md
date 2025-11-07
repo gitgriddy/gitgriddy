@@ -1,7 +1,5 @@
 <h1>Hi, I'm Leeann!👩🏻👋🏻</h1>
 
-# Hi! I’m Leeann 👋
-
 I’m a Computer Information Systems student starting my journey into the IT world.  
 I’m currently studying for my **CompTIA A+ certification** and looking for **internships or any kind of hands-on experience** that can help me grow.  
 
