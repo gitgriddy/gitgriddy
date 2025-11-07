@@ -14,7 +14,7 @@ This GitHub is my space to document my learning, share beginner projects, and sh
 - Discrete Structures
 - Fund Computer Hardware & Software
 
-<h2>👩🏻‍💻Computer Science Projects:</h2>
+<h2>👩🏻‍💻Projects:</h2>
 
 - [👚Online Clothing Shop](https://github.com/gitgriddy/Online-Clothing-Shop/tree/main)
 - [📲Contacts Organizer](https://github.com/gitgriddy/Contacts-Organizer/tree/main)
